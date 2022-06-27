@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 3897148692
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cf20e9e1e590992ae0f02974f345463c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 598d21cfed5dae4be3253545be0b1541
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5cfe16dd9bc1a404a9222242030e69d0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/Game3.unity
+Dependencies: []

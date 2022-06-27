@@ -1,0 +1,212 @@
+ManifestFileVersion: 0
+CRC: 959696640
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 27c339900c6cea7a261d776fef6296ca
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 38a9ec9d735172998570473e387ca2c4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/metal2.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho24_bottom.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/facade_metal_1.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/ortho04.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho09_bottom.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/glass2.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/concrete2.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/window16.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho00_bottom.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/plaster1.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/ortho23.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho16.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/facade_brick_5.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho17_bottom.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/tree0.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/ortho15.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho19_bottom.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho08_bottom.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho05.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/ortho06.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho01.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho05_bottom.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/window7.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/ortho19.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/concrete1.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/brick1.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/ortho18.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/windowed_facade_plaster_2.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/facade_plaster_3.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/facade_brick_3.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/windowed_facade_plaster_1mask.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/brick4.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/facade_plaster_1.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/window3.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/brick3.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/facade_brick_4.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/windowed_facade_plaster_2mask.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho11.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/ortho21.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/stone3.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/facade_brick_2.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/facade_glass_1.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho08.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/windowed_facade_glass_1mask.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho01_bottom.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/window10.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/ortho16.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/windowed_facade_marble_1mask.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho07_bottom.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/glass3.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/window8.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/ortho11.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/window15.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho11_bottom.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/window2.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/windowed_facade_marble_1.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/ortho01.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/ortho17.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho22_bottom.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/oaktree.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/sidewalk_concrete_slab.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/window6.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/facade_glass_3.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/window11.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/facade_stone_3.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho14.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Readme.md
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho15_bottom.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/window18.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho15.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/windowed_facade_copper_1.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/windowed_facade_metal_1.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/marble1.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/plaster2.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/ortho09.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho00.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/copper1.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/tree1.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/windowed_facade_plaster_3mask.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho19.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/glass1.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho23_bottom.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/ortho13.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/windowed_facade_brick_4mask.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/window12.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/ortho10.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/windowed_facade_concrete_1mask.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho09.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/windowed_facade_plaster_3.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho23.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho02_bottom.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho07.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/windowed_facade_glass_1.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/window17.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/window14.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/metal1.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho16_bottom.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/window13.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho06_bottom.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/windowed_facade_brick_2.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/ortho24.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/facade_marble_1.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/facade_glass_2.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/windowed_facade_glass_3.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/windowed_facade_concrete_1.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho04_bottom.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho12_bottom.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/facade_brick_1.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/window1.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/windowed_facade_metal_2.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/window9.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/ortho00.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/road_asphalt.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/facade_copper_1.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/brick2.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/ortho20.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/windowed_facade_metal_2mask.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Models/NYBlock02.fbx
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/water0.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/windowed_facade_stone_3.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/road.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/windowed_facade_brick_2mask.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho18_bottom.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho03_bottom.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho17.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho21_bottom.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/windowed_facade_brick_1mask.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/facade_metal_2.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/sidewalk.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/windowed_facade_concrete_2.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho04.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/plaster3.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho20_bottom.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho20.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/windowed_facade_brick_5.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/window4.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho21.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho13_bottom.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/ortho05.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho10_bottom.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho13.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/windowed_facade_metal_1mask.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/facade_concrete_1.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/facade_concrete_2.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho03.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho12.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/windowed_facade_concrete_2mask.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/windowed_facade_plaster_1.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/windowed_facade_brick_3mask.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/windowed_facade_stone_3mask.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/brick5.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/windowed_facade_glass_3mask.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho06.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/ortho02.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/window5.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/ortho12.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/windowed_facade_brick_1.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/windowed_facade_brick_5mask.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/windowed_facade_glass_2mask.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho22.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/NYBlock02.prefab
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho14_bottom.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/ortho08.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/windowed_facade_glass_2.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho18.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho02.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho10.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Models/metadata.txt
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Materials/ortho24.mat
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/windowed_facade_copper_1mask.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/ortho14.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/elm.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/windowed_facade_brick_3.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/facade_plaster_2.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/ortho22.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/ortho07.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/windowed_facade_brick_4.png
+- Assets/Scenes/Scene3/Geopipe/Pack02/NYBlock02/Textures/ortho03.png
+Dependencies: []
